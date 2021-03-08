@@ -14,7 +14,7 @@ Alfred workflow to run [`say`](https://ss64.com/osx/say.html) command with given
 
 # Workflow overview
 
-![workflow overview](https://raw.githubusercontent.com/kyanny/alfred-workflow-say/main/screenshot.png)
+![workflow overview](https://raw.githubusercontent.com/kyanny/alfred-workflow-say/main/screenshot3.png)
 
 # Run script content
 

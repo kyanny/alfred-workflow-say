@@ -4,8 +4,8 @@ Alfred workflow to run [`say`](https://ss64.com/osx/say.html) command with given
 
 # Installation
 
-1. Download [Keyword to Run Script.alfredworkflow](https://github.com/kyanny/alfred-workflow-say/raw/main/Keyword%20to%20Run%20Script.alfredworkflow)
-2. Open _"Keyword to Run Script.alfredworkflow"_ file
+1. Download [Say.alfredworkflow](https://github.com/kyanny/alfred-workflow-say/raw/main/Say.alfredworkflow)
+2. Open _"Say.alfredworkflow"_ file
 3. Click "Import" button
 
 # Usage
